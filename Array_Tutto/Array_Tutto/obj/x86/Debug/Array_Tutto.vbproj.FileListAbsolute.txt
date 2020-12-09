@@ -1,0 +1,11 @@
+C:\Users\Gianluca\Documents\VisualBasic\Array_Tutto\Array_Tutto\bin\Debug\Array_Tutto.exe
+C:\Users\Gianluca\Documents\VisualBasic\Array_Tutto\Array_Tutto\bin\Debug\Array_Tutto.pdb
+C:\Users\Gianluca\Documents\VisualBasic\Array_Tutto\Array_Tutto\bin\Debug\Array_Tutto.xml
+C:\Users\Gianluca\Documents\VisualBasic\Array_Tutto\Array_Tutto\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Gianluca\Documents\VisualBasic\Array_Tutto\Array_Tutto\obj\x86\Debug\Array_Tutto.vbproj.GenerateResource.Cache
+C:\Users\Gianluca\Documents\VisualBasic\Array_Tutto\Array_Tutto\obj\x86\Debug\Array_Tutto.exe
+C:\Users\Gianluca\Documents\VisualBasic\Array_Tutto\Array_Tutto\obj\x86\Debug\Array_Tutto.xml
+C:\Users\Gianluca\Documents\VisualBasic\Array_Tutto\Array_Tutto\obj\x86\Debug\Array_Tutto.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Array_Tutto\Array_Tutto\obj\x86\Debug\Array_Tutto.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Array_Tutto\Array_Tutto\obj\x86\Debug\Array_Tutto.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\Array_Tutto\Array_Tutto\obj\x86\Debug\Array_Tutto.pdb
