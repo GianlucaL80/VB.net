@@ -1,2 +1,2 @@
 #Vettori #VB.net 
-Array Visual Basic
+Array in Visual Basic
